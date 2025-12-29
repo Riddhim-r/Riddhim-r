@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Riddhim Anshul Rathor!<br><br>🚀 Passionate about Artificial Intelligence, Data Science, and Full-Stack Development<br>📚 Learning AI & Data Science from IIT Madras and pursuing Electronics & Telecommunication Engineering at SGGSIE&T<br>💡 Love solving problems with Python, Java, SQL, Flask, ReactJS, and more<br>📊 Exploring Cloud Computing, OOP, Database Management, and Software Engineering<br>🛠️ Building AI-powered applications, dashboards, and automation tools<br>
+👋 Hi, I'm Riddhim Anshul Rathor!<br><br>🚀 Passionate about Artificial Intelligence, Data Science, and Full-Stack Development<br>📚 Learning AI & Data Science from IIT Madras and graduated in Electronics & Telecommunication Engineering from SGGSIE&T<br>💡 Love solving problems with Python, Java, SQL, Flask, ReactJS, and more<br>📊 Exploring Cloud Computing, OOP, Database Management, and Software Engineering<br>🛠️ Building AI-powered applications, dashboards, and automation tools<br>
 
 
 ## 🌐 Socials:
