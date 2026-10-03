@@ -1,81 +1,76 @@
 <div align="center">
 
-# 🎬 The Engineer Who Built What She Needed
+# 🎬 Falling Into Your Code
 
 <a href="https://github.com/Riddhim-r">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A7B9&center=true&vCenter=true&width=620&lines=Now+streaming+on+GitHub+%F0%9F%93%BA;Starring+Riddhim+Rathor+as+the+Backend+%26+AI+Engineer;Genre%3A+slice-of-life+%C2%B7+tech+%C2%B7+growth;Every+episode+starts+with+a+problem+she+had+%E2%9C%A8" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A7B9&center=true&vCenter=true&width=620&lines=Now+streaming+on+GitHub+%F0%9F%93%BA;Starring+Riddhim+Rathor+%E2%9C%A8;Backend+%26+AI+Engineer;Python+%C2%B7+FastAPI+%C2%B7+LLM+apps" alt="Now streaming: Falling Into Your Code, starring Riddhim Rathor, Backend & AI Engineer" />
 </a>
 
 <br/>
 
-`★ 9.8/10 from her own debugger` &nbsp;·&nbsp; `Ongoing` &nbsp;·&nbsp; `Filmed in Pune, India`
+`🎬 Ongoing` &nbsp;·&nbsp; `📍 Pune, India` &nbsp;·&nbsp; `💻 Backend & AI`
 
 </div>
 
 ---
 
-### 📋 Drama Info
+### 🍿 Drama Info
 
 | | |
 | --- | --- |
-| **Title** | The Engineer Who Built What She Needed |
-| **Also known as** | Riddhim Rathor |
-| **Lead role** | Backend & AI Engineer · Python, FastAPI, LLM apps |
-| **Genre** | Slice-of-life, tech, growth, a little bit of chaos |
-| **Network** | GitHub (new episodes pushed regularly) |
-| **Studio** | Cloud CAD AI · IIT Madras |
-| **Status** | Ongoing. The writers have *so* many ideas. |
+| 🎬 **Title** | Falling Into Your Code |
+| 🌟 **Starring** | Riddhim Rathor |
+| 💼 **Role** | Backend & AI Engineer |
+| 🎭 **Genre** | Slice-of-life · Tech · Growth |
+| 📺 **Network** | GitHub |
+| 🏢 **Studios** | Cloud CAD AI · IIT Madras |
+| ⏳ **Status** | Ongoing |
 
-### 📖 Synopsis
+### 📝 Synopsis
 
-> An Electronics & Telecom graduate realizes she'd rather build systems than solder them. Armed with Python, a journal full of half-ideas and an unreasonable number of browser tabs, she sets one rule: **if I keep wishing an app existed, I'll build it.**
->
-> What follows is a story of noisy audio files, endless slide decks, forum threads nobody can search, and one heroine who refuses to accept *"there's no tool for that."*
+> An Electronics & Telecommunication graduate becomes a software engineer. By day she builds backend systems, data pipelines and client apps. On the side she builds AI tools: apps that clean up audio, turn documents into slides, answer questions about data, and keep all her notes in one place.
 
 ---
 
-### 🎞️ Episode Guide
+### 📺 Season 1 · *Origin Story*
 
-#### Season 1 · *Origin Story*
-
-| EP | Title | Logline |
+| EP | Title | Synopsis |
 | :-: | --- | --- |
-| **01** | *Signals, Systems & a Plot Twist* | B.Tech in Electronics & Telecommunication at **SGGSIE&T Nanded**. She came for circuits and stayed for code. |
-| **02** | *The Sensor Arc* | Intern at **AICTE IDEALab**: Python pipelines for real-time sensor data from embedded systems. First taste of data engineering. |
-| **03** | *Two Diplomas, One Full-Time Job* | Completes the **Diploma in Programming** and the **Diploma in Data Science** at **IIT Madras**, while working full-time. Sleep schedule: in a complicated relationship. |
-| **04** | *From Intern to Engineer* | Joins **Cloud CAD AI** as an intern and becomes a **Software Engineer**: ETL pipelines processing **10K+ records a day**, Stripe and Discourse integrations, and **5+ client apps** shipped. |
+| **01** | *Signals, Systems & a Plot Twist* | B.Tech in Electronics & Telecommunication at **SGGSIE&T, Nanded**. |
+| **02** | *The Sensor Arc* | Internship at **AICTE IDEALab**, building Python pipelines for real-time sensor data from embedded systems. |
+| **03** | *From Intern to Engineer* | Joins **Cloud CAD AI** as an intern and becomes a **Software Engineer**: ETL pipelines processing **10K+ records a day**, Stripe and Discourse integrations, and **5+ client apps** shipped. |
+| **04** | *Two Diplomas, One Full-Time Job* | Completes the **Diploma in Programming** and the **Diploma in Data Science** at **IIT Madras** while working full-time. |
 
-#### Season 2 · *The Builder Arc* 🔥
+### 🔥 Season 2 · *The Projects*
 
-| EP | Title | The itch | What she built |
+*Each episode is one project. Click the title to see it.*
+
+| EP | Episode | What it does | Built with |
 | :-: | --- | --- | --- |
-| **05** | *[Noise Cancelling Heart](https://github.com/Riddhim-r/voice-insight-api)* | Recordings full of fan hum and awkward silences | **Voice Insight API**: denoise → voice detection → Whisper → Claude, returning a clean transcript and a structured summary. `FastAPI` `Whisper` `Claude` |
-| **06** | *[Slide Into My Template](https://github.com/Riddhim-r/decksmith-ai)* | Turning documents into slides, by hand, *again* | **DeckSmith AI**: long text in, a styled PowerPoint out, in your own template, with any LLM. `FastAPI` `python-pptx` `OpenAI` `Gemini` |
-| **07** | *[Ask the Data, Not the Model](https://github.com/Riddhim-r/data-analyst-agent)* | LLMs doing maths in their head | **Data Analyst Agent**: the agent writes pandas code, the server runs it, and you get answers and charts. `LangChain` `Gemini` `pandas` |
-| **08** | *[The Answer Was in Thread #482](https://github.com/Riddhim-r/forum-rag-assistant)* | The same questions asked on the forum again and again | **Forum RAG Assistant**: semantic search over a forum and notes, with cited answers. `RAG` `Embeddings` `SQLite` |
-| **09** | *[Everything Has a Place to Live](https://github.com/Riddhim-r/Pied-Piper)* | Five apps for notes, links, prompts and todos, and still losing things | **Pied Piper**: a local-first desktop knowledge vault. My journal, but make it software. `TypeScript` `React` |
-| **10** | *[Stitched with Love](https://stitched-with-love.vercel.app/)* | Beautiful handmade crochet with nowhere to show it | A gallery plus a password-protected studio, with signed-cookie auth and Postgres row-level security. `Next.js` `Supabase` |
-
-<sub>🎬 Every episode is based on a true story: a problem I actually had.</sub>
+| **05** | 🎧 [**Voice Playlist**](https://github.com/Riddhim-r/voice-insight-api)<br/><sub>Voice Insight API</sub> | Upload a noisy recording → get a clean transcript and a summary with key points and action items. | FastAPI · Whisper · Claude |
+| **06** | 💼 [**Business Proposal: The Deck**](https://github.com/Riddhim-r/decksmith-ai)<br/><sub>DeckSmith AI</sub> | Paste your text → get a PowerPoint deck in your own template. | FastAPI · python-pptx · OpenAI · Gemini |
+| **07** | 📊 [**My Little DataFrame**](https://github.com/Riddhim-r/data-analyst-agent)<br/><sub>Data Analyst Agent</sub> | Ask questions about a dataset in plain English → get answers and charts. | LangChain · Gemini · pandas |
+| **08** | 💬 [**Reply 200 OK**](https://github.com/Riddhim-r/forum-rag-assistant)<br/><sub>Forum RAG Assistant</sub> | Ask a course question → get an answer with links to the forum posts and notes it came from. | RAG · Embeddings · SQLite |
+| **09** | 🗝️ [**Guardian: The Lonely and Great Vault**](https://github.com/Riddhim-r/Pied-Piper)<br/><sub>Pied Piper</sub> | One desktop app for notes, saved solutions, AI prompts, links and todos, all stored locally. | TypeScript · React |
+| **10** | 🧶 [**First Stitch**](https://stitched-with-love.vercel.app/)<br/><sub>Stitched with Love</sub> | A gallery website for handmade crochet, with a private studio to manage posts. | Next.js · Supabase |
 
 ---
 
 ### 🎭 Cast
 
-**Lead role**
+**🌟 Lead role**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Main cast**
+**✨ Main cast**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Supporting cast**
+**🫶 Supporting cast**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -89,7 +84,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**Special appearances**
+**🎬 Special appearances**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -100,34 +95,19 @@
 
 ### 🎥 Behind the Scenes
 
-*What the lead does when the cameras are off:*
+*When the cameras are off, you'll usually find the lead…*
 
-| | |
-| --- | --- |
-| 💃 **Dancing** | Choreography is just debugging for the body: break it down, repeat the hard part, run it again. |
-| 📖 **Novels** | Always mid-book. Will defend a slow-burn plot with my whole chest. |
-| ✍️ **Journalling** | Where most of my project ideas start. Pied Piper exists because my notes needed a better home. |
-| 📺 **K-dramas** | Obviously. You're reading an episode guide. |
-| 📚 **Manhwas** | Peak character development. Also why I believe in levelling up one chapter at a time. |
-| 💄 **Skincare & makeup** | My skincare routine has more steps than my CI pipeline. Both are non-negotiable. |
+<div align="center">
 
-<details>
-<summary><b>🍿 Now playing</b> (click to expand)</summary>
-<br/>
+💃 dancing &nbsp;·&nbsp; 📖 reading novels &nbsp;·&nbsp; 📝 journalling &nbsp;·&nbsp; 📺 watching K-dramas & C-dramas &nbsp;·&nbsp; 📚 reading manhwas &nbsp;·&nbsp; 💄 doing skincare & makeup
 
-| | |
-| --- | --- |
-| 📺 Watching | *your current K-drama* |
-| 📚 Reading (manhwa) | *your current manhwa* |
-| 📖 Reading (novel) | *your current novel* |
-| 💃 Practising | *your current choreography* |
-| 🛠️ Building | Pied Piper: making the vault smarter |
+<sub>Yes, this whole profile is a drama reference. 🫶</sub>
 
-</details>
+</div>
 
 ---
 
-### 📊 Ratings
+### 📈 Ratings
 
 <div align="center">
 
@@ -138,15 +118,13 @@
 
 ---
 
-### ⏭️ Next Episode Preview
+### ⏭️ Next Episode
 
-> *She opens a new folder. Types `mkdir`. Pauses. Smiles.*
+> 🎬 **Now filming:** more features for **Pied Piper**.
 >
-> *"Okay… but what if it could also—"*
->
-> **To be continued.** Follow along so you don't miss the next episode.
+> 🔔 Follow along so you don't miss the next episode.
 
-### 📡 Where to Watch
+### 💌 Where to Watch
 
 <div align="center">
 
@@ -156,8 +134,8 @@
 
 <br/>
 
-*시청해 주셔서 감사합니다 · Thanks for watching* 🙇‍♀️
+*시청해 주셔서 감사합니다 · Thanks for watching* 🌸
 
-<sub>No bugs were harmed in the making of this profile. Several were fixed. 화이팅! ✨</sub>
+<sub>화이팅! ✨</sub>
 
 </div>
