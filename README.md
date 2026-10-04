@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🎬 Falling Into Your Code
+# 🎬 Hello, World
 
 <a href="https://github.com/Riddhim-r">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A7B9&center=true&vCenter=true&width=620&lines=Now+streaming+on+GitHub+%F0%9F%93%BA;Starring+Riddhim+Rathor+%E2%9C%A8;Backend+%26+AI+Engineer;Python+%C2%B7+FastAPI+%C2%B7+LLM+apps" alt="Now streaming: Falling Into Your Code, starring Riddhim Rathor, Backend & AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F4A7B9&center=true&vCenter=true&width=620&lines=Now+streaming+on+GitHub+%F0%9F%93%BA;Starring+Riddhim+Rathor+%E2%9C%A8;Backend+%26+AI+Engineer;Python+%C2%B7+FastAPI+%C2%B7+LLM+apps" alt="Now streaming: Hello, World!, starring Riddhim Rathor, Backend & AI Engineer" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 | | |
 | --- | --- |
-| 🎬 **Title** | Falling Into Your Code |
+| 🎬 **Title** | Hello, World |
 | 🌟 **Starring** | Riddhim Rathor |
 | 💼 **Role** | Backend & AI Engineer |
 | 🎭 **Genre** | Slice-of-life · Tech · Growth |
